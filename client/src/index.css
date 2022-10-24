@@ -1761,3 +1761,9 @@ label form [type='radio'] {
     align-content: center;
   }
 }
+@media screen and (max-width: 600px) {
+  #link-navbar {
+      font-size: 15px;
+      padding: 0.5rem;
+  }
+}
