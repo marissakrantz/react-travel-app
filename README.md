@@ -1,11 +1,4 @@
 <h1 align="center">Travel App</h1>
-
-<p align="center">
-    <img src="https://img.shields.io/github/repo-size/BT134/Toddler-Meal-Time" />
-    <img src="https://img.shields.io/github/languages/top/BT134/Toddler-Meal-Time"  />
-    <img src="https://img.shields.io/github/issues/BT134/Toddler-Meal-Time" />
-    <img src="https://img.shields.io/github/last-commit/BT134/Toddler-Meal-Time" />
-</p>
   
 <p align="center">
     <img src="https://img.shields.io/badge/VisualStudioCode-blue"/>
@@ -93,6 +86,6 @@ User's Itinerary Page
 
 ## Contact 
 
-> Marissa Krantz - brenton.turnor@hotmail.com
+> Marissa Krantz - marissaleak@hotmail.com
 
 > Profile: [https://marissakrantz.github.io/react-portfolio/](https://marissakrantz.github.io/react-portfolio/)
