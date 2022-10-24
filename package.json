@@ -13,7 +13,7 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build",
-    "prod": "if-env NODE_ENV=production && npm run develop"
+    "heroku-postbuild": "npm run install && npm run build"
   },
   "repository": {
     "type": "git",
