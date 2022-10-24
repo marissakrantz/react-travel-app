@@ -39,7 +39,7 @@ const Home = () => {
     return (
         //start from this DIV row as a top then col moving down FIX THIS
         <div className="h-50">
-            <h1 className="itinearayHeader"> Happy holidaying {user.username} </h1>
+            <h1 className="itinearayHeader"> Happy Travels {user.username}! </h1>
             {!userParam && (
                 <div
                     className="col-md-10 m-5 p-3"

@@ -1022,12 +1022,12 @@ a:hover {
   border: 1px solid transparent;
   outline: none;
   color: #1a1a1a;
-  background-color: #8cc8ec;
+  background-color: #f4aacd;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 }
 
 .btn:hover {
-  background-color: #8cc8ec;
+  background-color: #f4aacd;
 }
 
 .btn.btn-squared {

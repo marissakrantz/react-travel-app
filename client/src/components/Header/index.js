@@ -16,10 +16,6 @@ const Header = () => {
                             <Image className="bg" src={plane}
                                 alt="world map"
                             />
-                            <Box>
-                                <br /> <br /> <br /> <br /> <br /> <br /> <br />
-                                <p className="headerFont">~ Not all who wander are lost </p>
-                            </Box>
                         </Stack>
                     </header>
                     <Stack
