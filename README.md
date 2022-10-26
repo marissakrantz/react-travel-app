@@ -36,7 +36,7 @@ SO THAT I can be more organised in planning each upcoming trip
 
 ## Installation
 
-Travel App can be viewed [HERE]() 
+Travel App can be viewed [HERE](https://ris-travel-app1.herokuapp.com/) 
 
 OR
 
